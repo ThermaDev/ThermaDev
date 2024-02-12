@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ThermaDev
+- 👀 I’m interested in making games!
+- 🌱 I’m currently learning JavaScript/TypeScript and Frontend Frameworks such as React and Svelte
+- ⚡ Fun fact: The prefix Therma is short for Thermalite, which is my username on most platforms.
